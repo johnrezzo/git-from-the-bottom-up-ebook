@@ -1,0 +1,11 @@
+---
+title: "Git from the Bottom Up"
+author: "John Wiegley"
+date: 2015-08-03
+description: "Introduction to the world of the powerful content tracking system called Git."
+rights:  CC BY-ND 4.0
+language: en-US
+documentclass: book
+links-as-notes: true
+verbatim-in-note: true
+...
